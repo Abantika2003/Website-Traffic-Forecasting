@@ -1,5 +1,7 @@
 # Website-Traffic-Forecasting
 📊 Website Traffic Forecasting using Machine Learning
+
+
 📌 Project Overview
 
 This project focuses on forecasting website traffic using machine learning techniques. Accurate traffic forecasting helps businesses plan infrastructure, marketing strategies, and resource allocation efficiently. The project involves data preprocessing, exploratory data analysis, feature engineering, model building, evaluation, and comparison of multiple regression models to identify the best-performing approach.
@@ -18,23 +20,6 @@ Evaluate model performance using standard metrics
 
 Compare models and select the best one for forecasting
 
-🗂️ Project Structure
-├── data/
-│   ├── raw_data.csv
-│   └── cleaned_data.csv
-├── notebooks/
-│   ├── data_analysis.ipynb
-│   ├── feature_engineering.ipynb
-│   └── model_building.ipynb
-├── models/
-│   ├── linear_regression.pkl
-│   ├── decision_tree.pkl
-│   └── random_forest.pkl
-├── results/
-│   ├── evaluation_metrics.csv
-│   └── comparison_table.png
-├── README.md
-└── requirements.txt
 
 🧪 Technologies Used
 
